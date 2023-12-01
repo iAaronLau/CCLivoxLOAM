@@ -1,0 +1,24 @@
+{
+	"type" : "Standard",
+	"name" : "LivoxScan",
+	"icon" : ":/CC/plugin/CCLivoxLOAM/images/icon.png",
+	"description": "CCLivoxLOAM",
+	"authors" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@qq.com"
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@qq.com"
+		}
+	],
+	"references" : [
+		{
+			"text" : "CloudCompare Site",
+			"url" : "https://www.cloudcompare.org/"
+		}
+	]
+}
